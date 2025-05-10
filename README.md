@@ -16,3 +16,4 @@ O objetivo é desenvolver, a partir de um cenário realista, um banco de dados c
 - Relacionamentos e integridade referencial
 - Documentação e explicação do modelo
 
+VIDEO: https://www.youtube.com/watch?v=Mg-4tf0CkNQ
