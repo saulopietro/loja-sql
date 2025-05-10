@@ -22,7 +22,7 @@ INSERT INTO Clientes (nome, email, telefone, endereco) VALUES
 ('Lucas Barbosa', 'lucas@email.com', '11900009999', 'Rua H, 606'),
 ('Patrícia Dias', 'patricia@email.com', '11899998888', 'Rua I, 707');
 
-INSERT INTO Produtos (nome, descricao, preco, estoque, categoria) VALUES
+INSERT INTO Produtos (nome, descricao, preco, qtd_estoque, categoria) VALUES
 ('Camiseta Polo', 'Camiseta de algodão', 59.90, 100, 'Vestuário'),
 ('Tênis Esportivo', 'Tênis leve para corrida', 199.90, 50, 'Calçados'),
 ('Mochila Escolar', 'Mochila resistente', 89.90, 75, 'Acessórios'),
